@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "932080477808",
+    "project_id": "cafe-app-bf389",
+    "storage_bucket": "cafe-app-bf389.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:932080477808:android:cf1326936eff2fcb8236b5",
+        "android_client_info": {
+          "package_name": "com.coffeapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "932080477808-t2ige4kdhb6ueofnsetk0mlu638kaj6a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.coffeapp",
+            "certificate_hash": "3092a133be1a880cce67a6e7c4ba1d5fa30ab48e"
+          }
+        },
+        {
+          "client_id": "932080477808-sv3b2os1gr3oqi05ubjpm91iemqj374j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNwSQKqz2-axPhQxRau2KvQDBKSlFoOcY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "932080477808-sv3b2os1gr3oqi05ubjpm91iemqj374j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
